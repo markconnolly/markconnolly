@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markconnolly
 - 👀 I’m interested in farting around
-- 🌱 I’m currently learning cirlces and sunflowers (pattern generation)
+- 🌱 I’m currently learning cirlces, spelling, and sunflowers (pattern generation)
 
 <!---
 markconnolly/markconnolly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
